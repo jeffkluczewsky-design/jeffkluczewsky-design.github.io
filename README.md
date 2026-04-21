@@ -1,6 +1,6 @@
 # jeffkluczewsky-design.github.io
 
-Personal GitHub Pages site for **Piotr Kluczewsky** — presenting the
+Personal GitHub Pages site for **jeffKluczewsky** — presenting the
 **Agentic OS: Sales & Auditor Architecture** built on the
 *Minimal Deviation Framework*.
 
